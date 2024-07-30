@@ -30,20 +30,20 @@ public:
 // FACTORIES
 class IFactoryMethod {
 public:
-       [[nodiscard]] virtual Shape* createShape() const = 0;
+       [[nodiscard]] virtual IShape* createShape() const = 0;
        virtual ~IFactoryMethod()= default;
 };
 
 class CircleFactory final : public IFactoryMethod {
 public:
-       [[nodiscard]] Shape* createShape() const override {
+       [[nodiscard]] IShape* createShape() const override {
               return new Circle();
        }
 };
 
 class TraingleFactory final : public IFactoryMethod {
 public:
-       [[nodiscard]] Shape* createShape() const override {
+       [[nodiscard]] IShape* createShape() const override {
               return new Triangle();
        }
 };
