@@ -8,4 +8,6 @@ add_library(design_patterns STATIC
         Builder.cpp
         Prototype.cpp
         Prototype.h
+        Adapter.cpp
+        Adapter.h
 )
