@@ -9,5 +9,7 @@ add_library(design_patterns STATIC
         Prototype.cpp
         Prototype.h
         Adapter.cpp
-        Adapter.h
+        Decorator.cpp
+        Facade.cpp
+
 )
