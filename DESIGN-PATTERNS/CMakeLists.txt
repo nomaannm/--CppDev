@@ -11,5 +11,7 @@ add_library(design_patterns STATIC
         Adapter.cpp
         Decorator.cpp
         Facade.cpp
+        Proxy.cpp
+        Proxy.h
 
 )
