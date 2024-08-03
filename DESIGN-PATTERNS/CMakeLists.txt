@@ -12,6 +12,6 @@ add_library(design_patterns STATIC
         Decorator.cpp
         Facade.cpp
         Proxy.cpp
-        Proxy.h
+        Bridge.cpp
 
 )
