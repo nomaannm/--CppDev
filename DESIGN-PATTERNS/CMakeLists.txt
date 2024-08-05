@@ -7,11 +7,11 @@ add_library(design_patterns STATIC
         AbstractFactory.cpp
         Builder.cpp
         Prototype.cpp
-        Prototype.h
         Adapter.cpp
         Decorator.cpp
         Facade.cpp
         Proxy.cpp
         Bridge.cpp
+        Flyweight.cpp
 
 )
