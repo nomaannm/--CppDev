@@ -13,5 +13,6 @@ add_library(design_patterns STATIC
         Proxy.cpp
         Bridge.cpp
         Flyweight.cpp
+        Observer.cpp
 
 )
