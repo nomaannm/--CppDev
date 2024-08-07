@@ -14,5 +14,6 @@ add_library(design_patterns STATIC
         Bridge.cpp
         Flyweight.cpp
         Observer.cpp
+        Strategy.cpp
 
 )
