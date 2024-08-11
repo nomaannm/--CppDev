@@ -14,6 +14,6 @@ I’m following the [Salmer C++ Roadmap](https://salmer.dev/cpp-roadmap) to guid
 - **Concurrency and Multithreading**
 - **System Design and Architecture**
 
-![Salmer C++ Roadmap](https://example.com/roadmap.png)  <!-- Replace with actual roadmap image -->
+<img src = "C:\Users\noman\OneDrive\Desktop"></img>
 
 
