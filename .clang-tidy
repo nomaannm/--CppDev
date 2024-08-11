@@ -1,0 +1,2 @@
+Checks:          '-*,readability-*'  # Enable readability checks, disable all others
+WarningsAsErrors: '*'
