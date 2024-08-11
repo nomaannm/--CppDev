@@ -16,15 +16,4 @@ I’m following the [Salmer C++ Roadmap](https://salmer.dev/cpp-roadmap) to guid
 
 ![Salmer C++ Roadmap](https://example.com/roadmap.png)  <!-- Replace with actual roadmap image -->
 
-## 🛠 Projects and Code
 
-### 1. **Basic Concepts**
-
-- **Hello World Program**
-  ```cpp
-  #include <iostream>
-
-  int main() {
-      std::cout << "Hello, World!" << std::endl;
-      return 0;
-  }
