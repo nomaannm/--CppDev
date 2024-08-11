@@ -15,5 +15,7 @@ add_library(design_patterns STATIC
         Flyweight.cpp
         Observer.cpp
         Strategy.cpp
+        Command.cpp
+        Command.h
 
 )
