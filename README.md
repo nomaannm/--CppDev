@@ -14,6 +14,6 @@ I’m following the [Salmer C++ Roadmap](https://salmer.dev/cpp-roadmap) to guid
 - **Concurrency and Multithreading**
 - **System Design and Architecture**
 
-<img src = "C:\Users\noman\OneDrive\Desktop"></img>
+<img src = "https://www.jetbrains.com/clion/img/clion_ide_overview.png"></img>
 
 
