@@ -17,5 +17,7 @@ add_library(design_patterns STATIC
         Strategy.cpp
         Command.cpp
         Command.h
+        ChainOfResponsibility.cpp
+        ChainOfResponsibility.h
 
 )
