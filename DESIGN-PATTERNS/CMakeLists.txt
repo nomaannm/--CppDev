@@ -19,5 +19,13 @@ add_library(design_patterns STATIC
         Command.h
         ChainOfResponsibility.cpp
         ChainOfResponsibility.h
+        Mediator.cpp
+        Mediator.h
+        Iterator.cpp
+        Iterator.h
+        State.cpp
+        State.h
+        TemplateMethod.cpp
+        TemplateMethod.h
 
 )
