@@ -27,5 +27,7 @@ add_library(design_patterns STATIC
         State.h
         TemplateMethod.cpp
         TemplateMethod.h
+        Memento.cpp
+        Memento.h
 
 )
