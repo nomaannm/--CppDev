@@ -29,5 +29,7 @@ add_library(design_patterns STATIC
         TemplateMethod.h
         Memento.cpp
         Memento.h
+        Interpreter.cpp
+        Interpreter.h
 
 )
